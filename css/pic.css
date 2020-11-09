@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.pic-holder{
+	background-color: lightgreen;
+	height: 100px;
+	width: 100px;
+	border: 2px solid grey;
+}
+.frame{
+	margin: 20px auto;
+	height: 60px;
+	width: 60px;
+	overflow: hidden;
+}
+.image{
+	display: block;
+	width: 100%;
+}

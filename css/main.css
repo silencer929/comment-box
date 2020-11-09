@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color:black;
+}
+.container{
+	background-color: #fff;
+	height:600px;
+	width: 600px;
+}
+#input-holder{
+	height:auto;
+	margin:5px 5px;
+	overflow: hidden;
+}
+.comment-bar{
+	display:flex;
+	flex-direction: row;
+	background-color: black;
+}
+.input{
+	width:300px;
+	min-height:50px;
+}
+.comment-list{
+	height:auto;
+	width: 590px;
+	margin:10px 5px;
+	border: 1px solid black;
+}
+.comment-holder{
+height:auto;
+width: auto;
+margin: 5px 5px;
+background-color:grey;
+padding: 10px 0;
+display: flex;
+}
+.comment-holder:hover{
+background-color: lightgrey;
+}
+.pic-holder{
+float: left;
+height: 60px;
+width: 60px;
+border-radius: 30px;
+background-color: blue;
+overflow:hidden;
+}
+.pic{
+	display: block;
+	width: 100%;
+
+}
+.comment{
+	margin-left: 20px;
+border: 1px solid blue;
+
+height: 
+}
